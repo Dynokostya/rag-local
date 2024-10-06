@@ -1,0 +1,11 @@
+openai
+PyPDF2
+pdf2image
+langchain
+langchain-community
+langchain_chroma
+langchain-openai
+langchain_experimental
+unstructured
+tiktoken
+chromadb==0.4.14
